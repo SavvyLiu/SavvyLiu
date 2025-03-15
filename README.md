@@ -6,6 +6,4 @@ I like to program
 
 I have a cat named [Gertrude](assets/gertrude.jpg)
 
-Graphic design is my passion
-
 Thanks for reading
